@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta name="viewport" content="width=1024">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>EDV-Projekt | Windkraft</title>
+    <meta name="description" content="Windkraft">
+    <meta name="author" content="Nils Denter">
+    <link href="http://fonts.googleapis.com/css?family=Pontano+Sans" rel="stylesheet"
+
+      type="text/css">
+    <style type="text/css">
+ a:link    {color:black;}
+ a:visited {color:black;}
+ a:hover   {color:black;}
+ a:active  {color:black;}
+</style><link href="css/introtonode.css" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.png">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  </head>
+  <body>
+    <div class="fallback-message">
+      <p>Your browser <b>doesn't support the features required</b> by
+        impress.js, so you are presented with a simplified version of this
+        presentation.</p>
+      <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b>
+        or <b>Firefox</b> browser.</p>
+    </div>
+    <div id="impress">
+      <div id="title" class="step" data-x="-100" data-y="0" data-scale="2">
+        <h2 style="text-align: center;">EDV-Projekt</h2>
+        <h5>Windkraft</h5>
+      </div>
+      <div id="agenda" class="step" data-x="-100" data-y="-600" data-scale="0.05"
+
+        data-rotate-y="60" data-rotate-x="60">
+        <h3 style="text-align: right;"><span style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Agenda:<a href="file:///H:/EDVProjekt/PR%C3%84SENTATION/=cube2">&nbsp;</a></span><span
+
+            style="color: red;"><a href="=cube3"><span style="font-weight: bold;"></span></a></span></h3>
+        <h3 style="text-align: right;"><span style="color: red;"><a href="einleitung.htm">Einleitung
+            </a></span></h3>
+        <h3 style="text-align: right;"><span style="color: red;"><a href="=cube3">Produktion
+              &amp; Entwicklung<br>
+            </a></span></h3>
+        <h3 style="text-align: right;"><span style="color: red;"><a href="=cube3">Logistik</a></span>
+        </h3>
+        <h3 style="text-align: right;"><span style="color: red;"><a href="=cube4">Errichtung</a></span>
+        </h3>
+        <h3 style="text-align: right;"><span style="color: red;"><a href="=cube5">Betrieb
+              &amp; Service</a></span> </h3>
+      </div>
+      <div id="einleitung.htm" class="cube">
+        <div class="topFace step" data-x="0" data-y="-125" data-z="-1005" data-rotate-x="60"
+
+          data-rotate-y="0" data-rotate-z="45" data-scale="0.5">
+          <p style="height: 19px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <br>
+          </p>
+            <h1 style="height: 79px;"><font size="7"><a name="einleitung.htm">Einleitung</a></font></h1>
+        </div>
+        <div class="leftFace step" data-x="825" data-y="500" data-z="-1175" data-rotate-x="0"
+
+          data-rotate-y="-90" data-rotate-z="0" data-scale="0.5">&nbsp;<img style="width: 184px; height: 111px;"
+
+            title="BIK" alt="" src="file:///H:/EDVProjekt/PR%C3%84SENTATION/BIK.JPG">&nbsp;
+          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
+          <h1 style="height: 0px;"><br>
+          </h1>
+          <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6">Das BIK (Institut für integrierte
+              Produktentwicklung) wird von Prof. Dr.-Ing. habil. Klaus Dieter
+              Thoben geleitet. Das Institut ist als<span style="font-weight: bold;">
+                Fachgebiet dem Fachbereich Produktionstechnik</span> in der
+              Universität Bremen angeschlossen.<br>
+              Hauptsächlich geht es in dem Fachgebiet um verschiedene
+              Forschungsfragestellungen über die Entwicklung von Produkten. Das
+              BIK arbeitet mit verschiedenen Lehrveranstaltungen in den
+              Studiengängen Systems Engineering, Produktionstechnik und
+              Wirtschaftsingenieurtechnik<span style="mso-spacerun:yes">&nbsp; </span>mit
+              den klassischen Themen wie<span style="font-weight: bold;">
+                Maschinenzeichen , Maschinenelemente, Konstruktionstechnik und
+                rechnergestützte Werkzeuge.</span></font></p>
+        </div>
+        <div class="rightFace step" data-x="125" data-y="90" data-z="-985" data-rotate-x="-30"
+
+          data-rotate-y="45" data-rotate-z="0" data-scale="0.5">
+          <h1 style="height: 79px;"><img title="BIBA" alt="" src="file:///H:/EDVProjekt/PR%C3%84SENTATION/BIBA.jpg"></h1>
+          <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6">Das Bremer Institut für <b>Produktion
+                und Logistik</b> GmbH ( BIBA ) praktiziert neben den
+              Grundlageforschungen, nationale und internationale&nbsp;
+              anwendungsorientierte Forschung und industrielle
+              Auftragsforschungen in den Bereichen Produktion und Logistik. Das
+              BIBA gliedert sich demnach auch in zwei wichtige
+              Forschungsbereiche.<br>
+              Diese Bereiche sind „Intelligente Produktions- und
+              Logistiksysteme“ (<b>IPS</b>) und „Informations- und
+              kommunikationstechnische Anwendungen in der Produktion“ (<b>IKAP</b>),
+              welches unter der Leitung von Prof. Thoben steht. Im IKAP werden
+              Methoden, Strategien, Verfahren und Werkzeuge für die industrielle
+              Produktion entwickelt.</font></p>
+        </div>
+        <font size="7">
+          <div class="backRightFace step" data-x="125" data-y="-35" data-z="-1200"
+
+            data-rotate-x="-30" data-rotate-y="135" data-rotate-z="0" data-scale="0.5">
+            <h1 style="height: 79px;"><font size="7">BIBA Imagefilm</font></h1>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+            &nbsp; &nbsp; &nbsp; <a target="_blank" href="BIBA.mp4"><img style="width: 489px; height: 259px;"
+
+                alt="biba front" src="biba-front.jpg"></a></div>
+          <div class="backLeftFace step" data-x="-125" data-y="-35" data-z="-1200"
+
+            data-rotate-x="-30" data-rotate-y="225" data-rotate-z="0" data-scale="0.5">
+            <h1>Überschrift 1.5</h1>
+            <p><br>
+            </p>
+          </div>
+          <div class="bottomFace step" data-x="0" data-y="180" data-z="-1180" data-rotate-x="60"
+
+            data-rotate-y="180" data-rotate-z="45" data-scale="0.5">
+            <h1>Überschrift 1.6</h1>
+            <p>Beispieltext 1.6</p>
+          </div>
+        </font></div>
+      <font size="7">
+        <div id="EP" class="cube">
+          <div class="topFace step" data-x="1000" data-y="500" data-z="-1000" data-rotate-x="0"
+
+            data-rotate-y="0" data-rotate-z="0" data-scale="0.5">
+            <h1 style="height: 79px;"><font size="7">Entwicklung &amp;
+                Produktion</font></h1>
+            <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><span style="font-weight: bold;"><em><font size="+2">Mobile
+                    Fertigungsverfahren in der Produktion von
+                    Faser-Kunststoff-Verbunden</font></em></span></p>
+            <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6"> Die steigenden Dimensionen als auch
+                steigende Stückzahlen in der Windenergieindustrie erfordern
+                innovative Produktionsverfahren um den <span style="font-weight: bold;">Anforderungen</span>
+                an Ressourceneffizienz umwelt- und Arbeitsschutz gerecht zu
+                werden. Ein <span style="font-weight: bold;">Ansatz</span> zu
+                Erreichung dieser Ziele ist der Einsatz von mobilen Verfahren.
+                Die Produktion von großflächigen Bauteilen aus <span style="font-weight: bold;">Faser-Kunststoff-Verbunden</span>
+                bietet ein hohes Potenzial für den Einsatz mobiler Verfahren.
+                Durch den Einsatz mobiler Verfahren können die Produktionszeiten
+                sowie die Auslastung der Produktionsmittel erheblich verbessert
+                werden. In verschiedenen Verbundprojekten werden durch das BIK
+                Lösungsansätze erarbeitet, die eine mobile Anwendung von <span
+
+                  style="font-weight: bold;">Produktionseinrichtungen</span> und
+                <span style="font-weight: bold;">Prüfanlagen</span> beinhalten.</font></p>
+          </div>
+          <div class="leftFace step" data-x="-125" data-y="90" data-z="-985" data-rotate-x="-30"
+
+            data-rotate-y="-45" data-rotate-z="0" data-scale="0.5">
+            <h1 style="height: 79px;"><font size="7">Entwicklung &amp;
+                Produktion</font></h1>
+            <p><font size="+2"> <span style="font-weight: bold; font-style: italic;">Herstellung
+                  großflächiger Composite-Bauteile</span></font></p>
+            <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6"> Die Produktion großflächiger Bauteile
+                aus Verbundwerkstoffen ist geprägt von einer zeitintensiven
+                Polymerisierungsphase. Verschiedene Faktoren können den <span style="font-weight: bold;">Produktionsprozess</span>
+                unzuverlässig machen. Einer dieser Faktoren ist die noch
+                überwiegend manuelle Herstellung dieser Bauteile. Um die dadurch
+                entstehenden Ungenauigkeiten und die mangelnde <span style="font-weight: bold;">Reproduzierbarkeit</span>
+                auszugleichen werden zusätzliche Faserlagen und ein Übermaß an
+                Harz verbraucht, wodurch der <span style="font-weight: bold;">Ressourcengebrauch</span>
+                erheblich steigt . In einem europäischen Verbundprojekt
+                entwickelt das BIBA auf Basis von <span style="font-weight: bold;">Sensortechnologie</span>
+                und mit Verfahren aus der <span style="font-weight: bold;">Künstlichen
+                  Intelligenz</span> ein Konzept zur Überwachung und Regelung
+                des Harzinfusions- und Aushärtungsprozesses. </font></p>
+          </div>
+          <div class="rightFace step" data-x="1000" data-y="500" data-z="-1350"
+
+            data-rotate-x="0" data-rotate-y="-180" data-rotate-z="0" data-scale="0.5">
+            <h1 style="height: 79px;"><font size="7">Entwicklung &amp;
+                Produktion</font></h1>
+            <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font size="+2"><em style="font-weight: bold;">Automatisierte Herstellung
+                  großflächiger Preforms für Faserverbundstrukturen </em><br>
+              </font> </p>
+            <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6">Bei der Herstellung großflächiger
+                Preforms für Faserverbundstrukturen stellt die <span style="font-weight: bold;">Handhabung
+                  textiler Halbzeuge</span> (die aus Glasfasern oder/und
+                Kohlefasern als Faserwerkstoff sowie Epoxidharzen als
+                Matrixwerkstoff bestehen) einen der Kernprozesse dar, durch den
+                die Qualität des späteren Produkts maßgeblich beeinflusst wird.
+                Rotorblätter für Windenergieanlagen werden noch überwiegend in
+                Handarbeit gefertigt um das angestrebte Ziel einer <span style="font-weight: bold;">„industriellen
+                  Produktion“</span> zu erreichen entwickelt das BIK neuartige
+                Ansätze für automatisierte Herstellungsverfahren großflächiger
+                Preforms für Strukturbauteile aus Faser-Kunststoffverbunden.
+                Durch diese Lösungen sollen vor allem <span style="font-weight: bold;">Produktionskosten</span>
+                und <span style="font-weight: bold;">Produktionszeiten</span>
+                gesenkt werden und steigende Anforderungen an Qualität,
+                Ressourceneffizienz erfüllt werden.</font></p>
+          </div>
+          <div class="backRightFace step" data-x="1000" data-y="325" data-z="-1175"
+
+            data-rotate-x="90" data-rotate-y="0" data-rotate-z="0" data-scale="0.5">
+            <h1><font size="7">Entwicklung &amp; Produktion</font></h1>
+            <p><span style="font-style: italic;"><span style="font-weight: bold;"><font
+
+                    size="+2">Materialflussbewertung von Rotorblättern</font></span></span></p>
+            <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6">Es besteht ein hoher Qualität-, Kosten
+                und Leistungszusammenhang zwischen der Windkraftanlage und der <span
+
+                  style="font-weight: bold;">Rotorblätter</span>. <br>
+              </font></p>
+            <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6">Um eine optimierte Produktion dieser zu
+                gewährleisten ist eine systematische Analyse des <span style="font-weight: bold;">Materialflusses</span>
+                bei Rotorblätternnotwendig. Anhand von produktionsnahen Daten
+                können die <span style="font-weight: bold;">Materialeffizienz </span>sowie
+                Lösungsansätze aufgezeigt werden. </font></p>
+          </div>
+          <div class="rightFace step" data-x="1175" data-y="500" data-z="-1175"
+
+            data-rotate-x="0" data-rotate-y="90" data-rotate-z="0" data-scale="0.5">
+            <h1><font size="7">Projekte<br>
+              </font></h1>
+            <a target="_blank" href="Automatisierte%20Herstellung.pdf"><img alt="blademaker"
+
+                src="blademaker.JPG"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
+
+              target="_blank" href="Intelligente%20Prozessregelung.pdf"><img style="width: 208px; height: 167px;"
+
+                alt="cs-fap" src="file:///H:/EDVProjekt/PR%C3%84SENTATION/CS-FAP.JPG"></a>&nbsp;&nbsp;
+            <br>
+            <p><font size="+1">Projekt Blademaker</font><a target="_blank" href="Automatisierte%20Herstellung.pdf">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span style="color: black;"><font size="+1">CS-FAP</font></span></a>
+            </p>
+          </div>
+          <div class="bottomFace step" data-x="1000" data-y="675" data-z="-1175"
+
+            data-rotate-x="-90" data-rotate-y="0" data-rotate-z="0" data-scale="0.5">
+            <h1>Überschrift 2.6</h1>
+            <p>Beispieltext 2.6</p>
+          </div>
+          <div id="Logistik" class="cube">
+            <div class="topFace step" data-x="-1300" data-y="-425" data-z="-1005"
+
+              data-rotate-x="60" data-rotate-y="0" data-rotate-z="45" data-scale="0.5">
+              <h1><font size="7">Logistik</font></h1>
+              <p><font size="+2"><span style="font-style: italic; font-weight: bold;">Logistik-
+                    und Ressourcenplanung eines Offshore-Terminals </span><br>
+                </font></p>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6"><span style="font-weight: bold;">Bremerhaven</span>
+                  ist einer der wichtigsten Standorte für die
+                  Offshore-Windenergie-Branche. Im Rahmen des Projektes <span style="font-weight: bold;">Mon²Sea</span>
+                  entwickelt das BIBA <span style="font-weight: bold;">Produktion-und
+                    Logistikprozesse</span> mit Hilfe von IT Funktionalitäten
+                  die Kooperationsprojekte sind die IT-Forschungsplattform,
+                  Prozessdesign und IuK-Technologien, welche die Industriellen
+                  Serienfertigung und die Errichtung von
+                  Offshore-Windkraftanlagen unterstützen. Außerdem ist die
+                  wetterabhängige Planung und Steuerung logistischer Prozesse
+                  von erheblicher Bedeutung. </font></p>
+            </div>
+            <div id="Errichtung" div class="leftFace step" data-x="-1425" data-y="-210" data-z="-985"
+
+              data-rotate-x="-30" data-rotate-y="-45" data-rotate-z="0" data-scale="0.5">
+              <h1><font size="7">Errichtung</font></h1>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><span style="font-style: italic;"><span style="font-weight: bold;"><font size="+2">Echtzeitmonitoring
+                      von Komponenten zur Offshore-Montage</font></span></span></p>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><span style="font-style: italic;"><span style="font-weight: bold;"><font size="+2"><br>
+                    </font></span></span></p>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6">Die <span style="font-weight: bold;">Errichtung</span>
+                  der Anlagen auf See bis Zurückführung der Planungsträger sowie
+                  die <span style="font-weight: bold;">Steuerung und Planung</span>
+                  dieses Prozesses stellt eine besondere Herausforderung in der
+                  <span style="font-weight: bold;">Offshore-Branche</span> dar.
+                  Mit dem Ziel der Beherschbarkeit der Produktions-und
+                  Logistikprozesse unter <span style="font-weight: bold;">Wettereinfluss</span>
+                  und mit Hilfe von <span style="font-weight: bold;">IT-Funtkionalitäten</span>
+                  entwirft das BIBA im Rahmen eines Verbundsprojektes ein
+                  Gesamtkonzept.</font></p>
+            </div>
+            <div id="BS" div class="rightFace step" data-x="-1175" data-y="-210" data-z="-985"
+
+              data-rotate-x="-30" data-rotate-y="45" data-rotate-z="0" data-scale="0.5">
+              <h1><font size="7">Betrieb &amp; Service </font></h1>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+10pt"><span style="font-size:7.5pt"><font size="+2"><span style="font-weight: bold; font-style: italic;">Lebenszyklusmanagement
+                      mit kundenspezifischer Instandhaltungssoftware&nbsp;</span></font></span></p>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+10pt"><span style="font-size:7.5pt"><font size="+2"><br>
+                  </font></span></p>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6">Die <span style="font-weight: bold;">Instandhaltung</span>
+                  der Windkraftanlagen ist aufgrund der eingeschränkten
+                  Erreichbarkeit sehr komplex und <span style="font-weight: bold;">kostenintensiv</span>.
+                  Auch in diesem Bereich forscht das BIBA in verschiedenen
+                  Projekten nach neuen Ansätzen um Instandhaltungsmaßnahmen
+                  optimal vorzubereiten. Dies soll auf Grundlage von aktuellen
+                  und historischen Daten und Informationen geschehen. Das BIBA
+                  untersucht die Rahmenbedingungen für die Aufnahme und
+                  Aufbereitung der <span style="font-weight: bold;">Lebenszyklusdaten</span>
+                  hinsichtlich einer Auswertung von Ausfallcharakteristika und
+                  den Aufbau von <span style="font-weight: bold;">Wissensbasen</span>.
+                </font></p>
+            </div>
+            <div class="backRightFace step" data-x="-1175" data-y="-335" data-z="-1200"
+
+              data-rotate-x="-30" data-rotate-y="135" data-rotate-z="0" data-scale="0.5">
+              <h1><font size="7">Betrieb &amp; Service </font></h1>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><span style="font-style: italic;"><span style="font-weight: bold;"><font size="+2">Offshore
+                      – Serviceprozesse und Anforderungen an eine operative
+                      Software</font></span></span></p>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><span style="font-style: italic;"><span style="font-weight: bold;"><font size="+2"><br>
+                    </font></span></span></p>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6"> Instandhaltungsprozesse im
+                  Offshore-Windenergie -Bereich sind <span style="font-weight: bold;">sehr
+                    komplex und aufwändig</span>. Die Planung und die
+                  vollständige <span style="font-weight: bold;">Dokumentation
+                    der Servivetätigkeiten</span> ist deswegen von großer
+                  Wichtigkeit. Das BIBA entwirft Serviceprozesse sowie
+                  zugehörige <span style="font-weight: bold;">Maintance
+                    Management Systeme</span>, wobei mobile Technologien in die
+                  Konzeption einbezogen werden. </font></p>
+            </div>
+            <div class="backLeftFace step" data-x="-1425" data-y="-335" data-z="-1200"
+
+              data-rotate-x="-30" data-rotate-y="225" data-rotate-z="0" data-scale="0.5">
+              <h1><font size="7">Betrieb &amp; Service</font></h1>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font size="+2"> <span style="font-style: italic; font-weight: bold;">Unterstützung
+                    der Online –Ausbildung von Ingenieuren im Bereich der
+                    Windenergie mit Hilfe von Spielen</span></font></p>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><span style="font-size:7.5pt"><font size="+2"><span style="font-style: italic; font-weight: bold;"><br>
+                    </span></font></span></p>
+              <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+18pt"><font face="DilleniaUPC" size="6">Für den Bau und die Wartung von
+                  Windkraftanlagen werden viele qualifizierte Arbeiter benötigt.
+                  Anhand von aktuellen Statistiken wird die Branche im nächsten
+                  Jahrzehnt rund <span style="font-weight: bold;">250.000
+                    Arbeitsplätze</span> in Europa schaffen. Das BIBA arbeitet
+                  daran Ingenieuren neue <span style="font-weight: bold;">Arbeitsumgebungen
+                    in geschützten Bereichen</span> näher zu bringen und diese
+                  zum Beispiel durch <span style="font-weight: bold;">"serious
+                    games"</span> zu qualifizieren. </font></p>
+            </div>
+            <div class="topFace step" data-x="-1300" data-y="-120" data-z="-1180"
+
+              data-rotate-x="60" data-rotate-y="180" data-rotate-z="45" data-scale="0.5">
+              <h1>Überschrift 3.6</h1>
+              <p>Beispieltext 3.6</p>
+            </div>
+          </div>
+          <!--
+        <div id="cube4" class="cube">          <div class="topFace step" data-x="-200" data-y="400" data-z="-600" data-rotate-x="90"            data-rotate-y="0" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 4.1</h1>            <p>Beispieltext 4.1</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="bottomFace step" data-x="-200" data-y="485" data-z="-512.5"            data-rotate-x="0" data-rotate-y="0" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 4.2</h1>            <p>Beispieltext 4.2</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="rightFace step" data-x="-200" data-y="485" data-z="-687.5"            data-rotate-x="0" data-rotate-y="-180" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 4.3</h1>            <p>Beispieltext 4.3</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="backRightFace step" data-x="-116.5" data-y="485" data-z="-600"            data-rotate-x="0" data-rotate-y="90" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 4.4</h1>            <p>Beispieltext 4.4</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="rightFace step" data-x="-283.5" data-y="485" data-z="-600"            data-rotate-x="0" data-rotate-y="-90" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 4.5</h1>            <p>Beispieltext 4.5</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="bottomFace step" data-x="-200" data-y="570" data-z="-600"            data-rotate-x="-90" data-rotate-y="0" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 4.6</h1>            <p>Beispieltext 4.6</p>            <h3><span class="footnote"><a href="URL">Verlinkung zu mehr Material</a>              </span></h3>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>        </div>        <div id="cube5" class="cube">          <div class="topFace step" data-x="-800" data-y="425" data-z="-1005" data-rotate-x="60"            data-rotate-y="0" data-rotate-z="45" data-scale="0.5">            <h1>Überschrift 5.1</h1>            <p>Beispieltext 5.1</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="leftFace step" data-x="-925" data-y="640" data-z="-985" data-rotate-x="-30"            data-rotate-y="-45" data-rotate-z="0" data-scale="0.5">            <h1>Überschrift 5.2</h1>            <p>Beispieltext 5.2</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="rightFace step" data-x="-675" data-y="640" data-z="-985" data-rotate-x="-30"            data-rotate-y="45" data-rotate-z="0" data-scale="0.5">            <h1>Überschrift 5.3</h1>            <p>Beispieltext 5.3</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="backRightFace step" data-x="-675" data-y="515" data-z="-1200"            data-rotate-x="-30" data-rotate-y="135" data-rotate-z="0" data-scale="0.5">            <h1>Überschrift 5.4</h1>            <p>Beispieltext 5.4</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="backLeftFace step" data-x="-925" data-y="515" data-z="-1200"            data-rotate-x="-30" data-rotate-y="225" data-rotate-z="0" data-scale="0.5">            <h1>Überschrift 5.5</h1>            <p>Beispieltext 5.5</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="topFace step" data-x="-800" data-y="730" data-z="-1180" data-rotate-x="60"            data-rotate-y="180" data-rotate-z="45" data-scale="0.5">            <h1>Überschrift 5.6</h1>            <p>Beispieltext 5.6</p>            <h3><span class="footnote"><a href="URL">Verlinkung zu mehr Material</a>              </span></h3>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>        </div>        <div id="cube6" class="cube">          <div class="topFace step" data-x="-1300" data-y="200" data-z="-600" data-rotate-x="90"            data-rotate-y="0" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 6.1</h1>            <p>Beispieltext 6.1</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="bottomFace step" data-x="-1300" data-y="285" data-z="-512.5"            data-rotate-x="0" data-rotate-y="0" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 6.2</h1>            <p>Beispieltext 6.2</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="rightFace step" data-x="-1300" data-y="285" data-z="-687.5"            data-rotate-x="0" data-rotate-y="-180" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 6.3</h1>            <p>Beispieltext 6.3</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="backRightFace step" data-x="-1216.5" data-y="285" data-z="-600"            data-rotate-x="0" data-rotate-y="90" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 6.4</h1>            <p>Beispieltext 6.4</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="rightFace step" data-x="-1383.5" data-y="285" data-z="-600"            data-rotate-x="0" data-rotate-y="-90" data-rotate-z="0" data-scale="0.25">            <h1>Überschrift 6.5</h1>            <p>Beispieltext 6.5</p>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>          <div class="bottomFace step" data-x="-1300" data-y="370" data-z="-600"            data-rotate-x="-90" data-rotate-y="0" data-rotate-z="0" data-scale="0.25">            <h1>Verbundprojekte</h1>            -&gt; Faser-Kunst<br>            <h3><br>            </h3>            <p><br>            </p>            <p><br>            </p>            <p><br>            </p>            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              <sub><span><a href="=agenda">zurück zur Agenda</a> </span></sub></p>          </div>        </div>      </div>--></div>
+        <script src="js/impress.js"></script>
+        <script>impress().init();</script> </font></div>
+    <font size="7"> </font>
+  </body>
+</html>
